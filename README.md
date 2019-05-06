@@ -1,5 +1,5 @@
 # Acoustic Astronomy
-Invididual Submission
-Maker Faire
+Maker Faire 2019 (May 18, 2019)
 Branksome Hall Asia, Jeju, South Korea
-by Michael Poirier
+Invididual Submission  
+by Michael Poirier  
