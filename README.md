@@ -1,6 +1,10 @@
 # Acoustic Astronomy
-- Maker Faire 2019 (May 18, 2019)  
-- Branksome Hall Asia, Jeju, South Korea  
-- Individual Submission  
+
+## What is it?
 - Visualization of Astronomical Images, which change based on environmental sound input.
 - Coded using [Processing](https://processing.org/).
+
+## Why?
+- Maker Faire 2019 (May 18, 2019)  
+- Branksome Hall Asia, Jeju, South Korea  
+- Individual Teacher Submission
